@@ -1,16 +1,38 @@
-## Hi there 👋
+# 💻 Olá Mundo!
 
-<!--
-**Riquehenri/Riquehenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+👋 Olá! Meu nome é Henrique Ricardo, sou estudante de **Engenharia de Software** na **PUCPR** (3º período de 8). Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender novas habilidades e resolver problemas de forma criativa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Atualmente, estou em busca de uma oportunidade de **estágio** na área de desenvolvimento de software.
+
+## 🌐 Redes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-ricardo08/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rique.crg/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquericardo.0802@gmail.com)
+
+---
+
+## 🛠️ Tecnologias
+
+### 📌 Linguagens e Ferramentas
+
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+
+</div>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riquehenri&show_icons=true&theme=dracula)
+
+---
