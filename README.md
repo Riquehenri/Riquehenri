@@ -38,8 +38,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riquehenri&show_icons=true&theme=dracula&count_private=true&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquehenri&layout=compact&theme=dracula&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Riquehenri&show_icons=true&theme=dracula&count_private=true&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquehenri&layout=compact&theme=dracula&hide_title=true"/>
 
 </div>
 
