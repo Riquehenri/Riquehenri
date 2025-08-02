@@ -1,5 +1,7 @@
 # 💻 Olá Mundo!
 
+<a href="https://github.com/Riquehenri/Riquehenri/blob/main/README_en.md">clique aqui para ver este README em inglês</a>
+
 ## 🚀 Sobre Mim
 
 👋 Olá! Meu nome é Henrique Ricardo, sou estudante de **Engenharia de Software** na **PUCPR** (4º período de 8). Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender novas habilidades e resolver problemas de forma criativa.
