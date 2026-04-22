@@ -6,7 +6,6 @@
 
 👋 Hi! My name is Henrique Ricardo, and I'm a **Software Engineering** student at **PUCPR** (4th out of 8 semesters). I'm passionate about technology and software development, always looking to learn new skills and solve problems creatively.
 
-## 🔍 I'm currently looking for an **internship opportunity** in the software development field.
 
 ## 🌐 Social Media
 
