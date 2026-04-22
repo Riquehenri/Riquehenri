@@ -6,8 +6,6 @@
 
 👋 Olá! Meu nome é Henrique Ricardo, sou estudante de **Engenharia de Software** na **PUCPR** (5º período de 8). Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender novas habilidades e resolver problemas de forma criativa.
 
-## 🔍 Atualmente, estou em busca de uma oportunidade de **estágio** na área de desenvolvimento de software.
-
 ## 🌐 Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-ricardo08/)
