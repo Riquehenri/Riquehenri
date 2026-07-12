@@ -1,10 +1,5 @@
 # 💻 Olá Mundo!
 
-<a href="https://github.com/Riquehenri/Riquehenri/blob/main/README_en.md">clique aqui para ver este README em inglês</a>
-
-## 🚀 Sobre Mim
-
-👋 Olá! Meu nome é Henrique Ricardo, sou estudante de **Engenharia de Software** na **PUCPR** (5º período de 8). Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender novas habilidades e resolver problemas de forma criativa.
 
 ## 🌐 Redes
 
@@ -14,27 +9,6 @@
 
 ---
 
-## 🛠️ Tecnologias
-
-### 📌 Linguagens e Ferramentas
-
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA"/>
-
-
-</div>
-
----
 
 ## 📈 Estatísticas do GitHub
 
